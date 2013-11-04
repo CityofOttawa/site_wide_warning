@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Site Wide Warning feature.
+ */
+
+include_once 'site_wide_warning.features.inc';
